@@ -1,0 +1,13 @@
+{
+  "name": "arbitrary-precision-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node --test src/**/*.test.js"
+  },
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
